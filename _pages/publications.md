@@ -42,6 +42,15 @@ author_profile: true
 <br><br>
 
 
+## Doing Without Levels. <br>*Spontaneous Generations *, 2023. ([Link](https://www.spontaneousgenerations.com/s/Sanches-De-Oliveira-Article.pdf))  <img align="right" src="https://gui-cogsci.github.io/images/spontaneous.jpg" width="130">
+> Philosophical discussions about agency at different levels—the subpersonal and the suprapersonal levels, or the micro and the macro levels more generally—are characterized by robust, if sometimes implicit, assumptions about individuality and mind, as much as by assumptions about the leveling in question. This essay takes as its starting point the perspective of radical embodied cognitive science, and explores the implications that an embodied, ecological and dynamical perspective on cognition has for how we think about agency. As I propose, this perspective motivates a fundamental shift: by offering a level-neutral understanding of ‘doing,’ the embodied, ecological and dynamical perspective shows that we can do without levels in philosophically understanding agency.
+>
+> KEYWORDS: agency; embodied cognition; synergies; individualism; levels-thinking.
+> 
+>> Sanches de Oliveira, G. (2023). Doing Without Levels. Spontaneous Generations Volume 11, Issue 1 (Spring/Summer 2023). DOI: 10.4245/spongen.v11i1.1489
+
+<br><br>
+
 
 
 
