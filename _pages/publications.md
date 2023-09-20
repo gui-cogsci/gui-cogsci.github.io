@@ -5,12 +5,12 @@ title: "Publications"
 author_profile: true
 ---
 
-## *Psychology's WEIRD Problems*.<br>Cambridge University Press, forthcoming. ([Link](https://www.cambridge.org/core/elements/abs/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB#element)) <img align="right" src="https://gui-cogsci.github.io/images/elements-weird.jpg" width="130">
+## *Psychology's WEIRD Problems*.<br>Cambridge University Press, 2023. ([Link](https://www.cambridge.org/core/elements/abs/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB#element)) <img align="right" src="https://gui-cogsci.github.io/images/elements-weird.jpg" width="130">
 >  Psychology has a WEIRD problem. It is overly reliant on participants from Western, Educated, Industrialized, Rich, and Democratic societies. Over the last decade this problem has come to be widely acknowledged. However, psychologists have so far made little progress in making psychology more diverse. We propose that the lack of progress can be explained by the fact that the original WEIRD critique was too narrow in scope. The WEIRD critique was originally framed as a single problem of a lack of diversity among research participants. But in fact there are at least four overlapping problems. Psychological science is WEIRD not only in terms of who makes up its participant pool, but also in terms of its theoretical commitments, methodological assumptions, and institutional structures. Psychological science as currently constituted is a fundamentally WEIRD enterprise. Coming to terms with this is necessary if we wish to make psychology relevant for all humanity.
 > 
 > KEYWORDS: WEIRD psychology; theory and methods; institutional structures and incentives;  cross-cultural research; diversity
 >
->> Sanches de Oliveira, G., & Baggs, E. (2024). *Psychology's WEIRD Problems* (Elements in Psychology and Culture). Cambridge: Cambridge University Press.
+>> Sanches de Oliveira, G., and Baggs, E. (2023) *Psychology’s WEIRD Problems*. Elements in Psychology and Culture series, Cambridge University Press. DOI: 10.1017/9781009303538
 
 
 <br><br>
@@ -19,16 +19,25 @@ author_profile: true
 
 
 
-## Scientific Practice as Ecological-Enactive Co-Construction. (w/ Thomas van Es and Ines Hipolito)<br>*Synthese*, forthcoming. ([Link](https://)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
+## Scientific Practice as Ecological-Enactive Co-Construction. (w/ Thomas van Es and Ines Hipolito)<br>*Synthese*, 2023. ([Link](https://)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
 >  Philosophy of science has undergone a naturalistic turn, moving away from traditional idealized concerns with the logical structure of scientific theories and toward focusing on real-world scientific practice, especially in domains such as modeling and experimentation. As part of this shift, recent work has explored how the project of philosophically understanding science as a natural phenomenon can be enriched by drawing from different fields and disciplines, including niche construction theory in evolutionary biology, on the one hand, and ecological and enactive views in embodied cognitive science, on the other. But these insights have so far been explored in separation from each other, without clear indication of whether they can work together. Moreover, the focus on particular practices, however insightful, has tended to lack consideration of potential further implications for a naturalized understanding of science as a whole (i.e., above and beyond those particular practices). Motivated by these developments, here we sketch a broad-ranging view of science, scientific practice and scientific knowledge in terms of ecological-enactive co-construction. The view we propose situates science in the biological, evolutionary context of  human embodied cognitive activity aimed at addressing the demands of life. This motivates reframing theory as practice, and reconceptualizing scientific knowledge in ecological terms, as relational and world-involving. Our view also brings to the forefront of attention the fundamental link between ideas about the nature of mind, of science and of nature itself, which we explore by outlining how our proposal differs from more conservative, and narrower, conceptions of “cognitive niche construction.”
 > 
 > KEYWORDS: scientific practice; theory; naturalism; ecological psychology; enactivism; niche construction; cognition.
 >
->> Sanches de Oliveira, G., van Es, T., & Hipolito, I. (forthcoming) Scientific Practice as Ecological-Enactive Co-Construction. *Synthese* ?, ??. DOI: ??
+>> Sanches de Oliveira, G., van Es, T. & Hip ́olito, I. (2023) Scientific practice as ecological-enactive co-construction. _Synthese_ 202, 4. DOI: 10.1007/s11229-023-04215-1
 
 <br><br>
 
 
+
+## Doing Without Levels. <br>*Spontaneous Generations*, 2023. ([Link](https://www.spontaneousgenerations.com/s/Sanches-De-Oliveira-Article.pdf))  <img align="right" src="https://gui-cogsci.github.io/images/spontaneous.jpg" width="130">
+> Philosophical discussions about agency at different levels—the subpersonal and the suprapersonal levels, or the micro and the macro levels more generally—are characterized by robust, if sometimes implicit, assumptions about individuality and mind, as much as by assumptions about the leveling in question. This essay takes as its starting point the perspective of radical embodied cognitive science, and explores the implications that an embodied, ecological and dynamical perspective on cognition has for how we think about agency. As I propose, this perspective motivates a fundamental shift: by offering a level-neutral understanding of ‘doing,’ the embodied, ecological and dynamical perspective shows that we can do without levels in philosophically understanding agency.
+>
+> KEYWORDS: agency; embodied cognition; synergies; individualism; levels-thinking.
+> 
+>> Sanches de Oliveira, G. (2023). Doing Without Levels. Spontaneous Generations Volume 11, Issue 1 (Spring/Summer 2023). DOI: 10.4245/spongen.v11i1.1489
+
+<br><br>
 
 
 
@@ -37,19 +46,11 @@ author_profile: true
 >
 > KEYWORDS: reading comprehension; eye movements; naturalistic reading; recurrence quantification analysis; ecological psychology; enactivism.
 > 
->> Bammel, M. and Sanches de Oliveira, G. (forthcoming). Reading Comprehension as Embodied Action: Exploratory Findings on Nonlinear Eye Movement Dynamics and Comprehension of Scientific Texts. A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 45th Annual Conference of the Cognitive Science Society (pp. ??). ISBN: ??. Sydney, NSW: Cognitive Science Society.
+>> Bammel, M. and Sanches de Oliveira, G. (2023). Reading Comprehension as Embodied Action: Exploratory Findings on Nonlinear Eye Movement Dynamics and Comprehension of Scientific Texts. In M. Goldwater, F. K. Anggoro, B. K. Hayes, & D. C. Ong (Eds.), _Proceedings of the 45th Annual Conference of the Cognitive Science Society_. https://escholarship.org/uc/item/10n8p5zn
 
 <br><br>
 
 
-## Doing Without Levels. <br>*Spontaneous Generations *, 2023. ([Link](https://www.spontaneousgenerations.com/s/Sanches-De-Oliveira-Article.pdf))  <img align="right" src="https://gui-cogsci.github.io/images/spontaneous.jpg" width="130">
-> Philosophical discussions about agency at different levels—the subpersonal and the suprapersonal levels, or the micro and the macro levels more generally—are characterized by robust, if sometimes implicit, assumptions about individuality and mind, as much as by assumptions about the leveling in question. This essay takes as its starting point the perspective of radical embodied cognitive science, and explores the implications that an embodied, ecological and dynamical perspective on cognition has for how we think about agency. As I propose, this perspective motivates a fundamental shift: by offering a level-neutral understanding of ‘doing,’ the embodied, ecological and dynamical perspective shows that we can do without levels in philosophically understanding agency.
->
-> KEYWORDS: agency; embodied cognition; synergies; individualism; levels-thinking.
-> 
->> Sanches de Oliveira, G. (2023). Doing Without Levels. Spontaneous Generations Volume 11, Issue 1 (Spring/Summer 2023). DOI: 10.4245/spongen.v11i1.1489
-
-<br><br>
 
 
 
