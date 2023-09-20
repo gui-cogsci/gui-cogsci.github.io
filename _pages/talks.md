@@ -6,7 +6,23 @@ author_profile: true
 ---
 
 
-List of peer-reviewed talks (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. A map is available at the end.
+List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. A map is available at the end.
+
+<br>
+
+## 2023
+
+(84) **"Two Species of Realism."** [with Vicente Raja] The 9th Biennial Meeting of the European Philosophy of Science Association, in Belgrade, Serbia (September 20-23, 2023).
+
+(83) **"Perception-Action Coupling and the Dynamicist/Computationalist Divide."** [with Bilal Arafaat* and Klaus Gramann; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+(82) **"How WEIRD is Cognitive Science?."** [with Ed Baggs; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+(81) **"Reading Comprehension as Embodied Action: Exploratory Findings on Nonlinear Eye Movement Dynamics and Comprehension of Scientific Texts."** [with Moritz Bammel*; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+(80) **"Ecological Psychology and Cognition in Context: Theoretical Foundations and Meta-Theoretical Implications."** Symposium _Embodied Cognition in Context_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+- Chair of symposium _[Embodied Cognition in Context](https://escholarship.org/uc/item/1139g9g6)_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
 <br>
 
