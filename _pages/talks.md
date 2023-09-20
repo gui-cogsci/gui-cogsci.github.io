@@ -10,7 +10,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 <br>
 
-## 2023
+### 2023
 
 (84) **"Two Species of Realism."** [with Vicente Raja] The 9th Biennial Meeting of the European Philosophy of Science Association, in Belgrade, Serbia (September 20-23, 2023).
 
