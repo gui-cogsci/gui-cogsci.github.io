@@ -55,16 +55,26 @@ author_profile: true
 
 
 
-## Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism .<br> *Methodology of Situated Cognition Research*, Springer, forthcoming.  ([Link](https://))  <img align="right" src="https://gui-cogsci.github.io/images/methodsituated.jpg" width="130">
+## Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism .<br> *Methodology of Situated Cognition Research*, Springer, 2023.  ([Link](https://link.springer.com/chapter/10.1007/978-3-031-39744-8_4))  <img align="right" src="https://gui-cogsci.github.io/images/sitcogspringer.jpg" width="130">
 > Explanatory diversity is a salient feature of the sciences of the mind, where different projects focus on neural, psychological, cognitive, social or other explanations. The same happens within embodied cognitive science, where ecological, enactive, dynamical, phenomenological and other approaches differ from each other in their explanations of the embodied mind. As traditionally conceived, explanatory diversity is philosophically problematic, fueling debates about whether the different explanations are competing, compatible, or tangential. In contrast, this paper takes the perspective of embodied cognitive science as its starting point and accordingly approaches explanatory diversity not as a problem to be solved, but as a phenomenon to be understood. Recent work has explored how the view of cognition as embodied motivates reflexively viewing science as a situated embodied cognitive practice. Here I argue that this reflexive turn motivates adopting a pluralistic stance when it comes to questions about theoretical and methodological disagreements. In particular, it motivates moving away from thinking in terms of explanations as disembodied entities that compete with one another, and instead thinking in terms of different explanatory styles as embodied practices of explaining, many of which might be legitimate and warranted independently of whether and how the explanations themselves relate to one another. 
 >
 > KEYWORDS: explanatory diversity; embodied cognition; reflexivity; pluralism; explanatory styles.
 > 
->> Sanches de Oliveira G. (forthcoming). Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism. *Methodology of Situated Cognition Research*, Springer. DOI: ?? 
+>> Sanches de Oliveira, G. (2023). Explanatory Diversity and Embodied Cognitive Science: Reflexivity Motivates Pluralism. In: Casper, MO., Artese, G.F. (eds) Situated Cognition Research. Studies in Brain and Mind, vol 23. Springer, Cham. https://doi.org/10.1007/978-3-031-39744-8_4
 
 
 <br><br>
 
+
+## A Professional Guide to Explanation. Commentary on “A Methodological Problem of Choice for 4E Research” .<br> *Methodology of Situated Cognition Research*, Springer, 2023.  ([Link](https://link.springer.com/chapter/10.1007/978-3-031-39744-8_3))  <img align="right" src="https://gui-cogsci.github.io/images/sitcogspringer.jpg" width="130">
+> On the face of it, the perspective that Casper puts forward in his paper (Chap. 2) and the one I offer in mine (Chap. 4)are completely at odds with each other. He sees the current diversity of explanations, theories and methods in embodied cognitive science as problematic and calling for some kind of integration, whereas I defend an extreme pluralist stance and don’t see the diversity as a problem. Not only that, but while he argues for coordination between the disparate approaches, I propose that expecting such coordination is in many cases unrealistic and moreover that, even when it’s possible, it might be counterproductive. The straightforward thing to do now would be for me to double down and use this space to try to show why I’m right and Casper is wrong. But I don’t think he’s wrong. He and I do disagree, but I don’t think it’s that sort of disagreement where only one side can be right and the other must be wrong. In particular, I don’t think that focusing on the different conclusions he and I draw in our respective chapters is a fruitful way to understand the nature of our disagreement. My goal in this commentary will be to explain why. I don’t know if Casper will agree with my assessment or not, but I won’t be surprised if he doesn’t—in fact, as I will suggest, this would make perfect sense given what I propose in my chapter. Still, my hope is that, by clarifying how (from my perspective) our different views relate to each other, I can help some readers better appreciate both his proposal and mine. 
+>
+> KEYWORDS: explanatory diversity; embodied cognition; reflexivity; pluralism; explanatory styles.
+> 
+>> Sanches de Oliveira, G. (2023). A Professional Guide to Explanation. Commentary on “A Methodological Problem of Choice for 4E Research”. In: Casper, MO., Artese, G.F. (eds) Situated Cognition Research. Studies in Brain and Mind, vol 23. Springer, Cham. https://doi.org/10.1007/978-3-031-39744-8_3 
+
+
+<br><br>
 
 
 
