@@ -12,6 +12,10 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 ### 2023
 
+- Invited talk "How WEIRD is Psychology?" (with Ed Baggs) at the "ReproducibiliTEA" series, Department of Psychology, University of Groningen, Netherlands (November 16, 2023)
+
+- Invited talk "The Role of Embodied Cognition in Naturalized Philosophy of Science" at the Department of Philosophy, University of Oviedo, Spain (November 8, 2023)
+
 (84) **"Two Species of Realism."** [with Vicente Raja] The 9th Biennial Meeting of the European Philosophy of Science Association, in Belgrade, Serbia (September 20-23, 2023).
 
 (83) **"Perception-Action Coupling and the Dynamicist/Computationalist Divide."** [with Bilal Arafaat* and Klaus Gramann; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
