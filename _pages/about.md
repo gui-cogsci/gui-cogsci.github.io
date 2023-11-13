@@ -27,4 +27,4 @@ For 6 years my wife and I had a backyard farm in Cincinnati, with <a href="https
 News
 ======
 
-I'm happy to announce that during November-December 2023 I am a visiting professor at the University of Oviedo (Spain), and during January-March 2024 I am a visiting research fellow at Tilburg University (Netherlands). I have also accepted an invitation to be a visiting fellow at the SOCRATES project at Leibniz Universität Hannover (Germany) during Spring/Summer 2025. 
+I'm happy to announce that during November-December 2023 I am a visiting professor at the University of Oviedo (Spain), and during January-March 2024 I am a visiting research fellow at Tilburg University (Netherlands). I have also accepted an invitation to be a visiting fellow at the SOCRATES project at Leibniz Universität Hannover (Germany) during Spring/Summer 2025 (exact dates TBD). 
