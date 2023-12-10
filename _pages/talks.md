@@ -6,7 +6,27 @@ author_profile: true
 ---
 
 
-List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. A map is available at the end.
+List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. Talks are in person unless otherwise indicated. A map of events is available at the end.
+
+<br>
+
+### 2024
+
+- Invited talk **"Title TBD"** at Linköping University, Sweden (date TBD)
+
+- Invited talk **"Title TBD"** at the University of Central Florida, USA (date TBD) [online]
+
+- Invited talk **"Title TBD"** at the University of the Basque Country, Spain (May 2024)
+
+- Invited talk **"Title TBD"** at the Tilburg University, Netherlands (March 2024)
+
+- Invited talk **"Title TBD"** at the University of Antwerp, Belgium (March 2024)
+
+- Invited talk **"Title TBD"** at the University of Santiago de Compostela, Spain (January 24, 2024)
+
+(85) **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science."** I Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
+
+- Invited talk **"Title TBD"** at the University of Vienna, Austria (January 16, 2024)
 
 <br>
 
