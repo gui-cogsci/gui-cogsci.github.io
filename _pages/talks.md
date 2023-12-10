@@ -18,7 +18,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk **"Title TBD"** at the University of the Basque Country, Spain (May 2024)
 
-- Invited talk **"Title TBD"** at the Tilburg University, Netherlands (March 2024)
+- Invited talk **"Title TBD"** at Tilburg University, Netherlands (March 2024)
 
 - Invited talk **"Title TBD"** at the University of Antwerp, Belgium (March 2024)
 
