@@ -14,13 +14,13 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk **"Title TBD"** at Linköping University, Sweden (date TBD)
 
-- Invited talk **"Title TBD"** at the University of Central Florida, USA (date TBD) [online]
+<!-- - Invited talk **"Title TBD"** at the University of Central Florida, USA (date TBD) [online] -->
 
-- Invited talk **"Title TBD"** at the University of the Basque Country, Spain (May 2024)
+- Invited talk **"Title TBD"** at the University of the Basque Country, Spain (May 16, 2024)
 
 - Invited talk **"Title TBD"** at Tilburg University, Netherlands (March 2024)
 
-- Invited talk **"Title TBD"** at the University of Antwerp, Belgium (March 2024)
+- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science."** at the University of Antwerp, Belgium (March 2024)
 
 - Invited talk **"Title TBD"** at the University of Santiago de Compostela, Spain (January 24, 2024)
 
