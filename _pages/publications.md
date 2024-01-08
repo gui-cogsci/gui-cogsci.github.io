@@ -5,6 +5,9 @@ title: "Publications"
 author_profile: true
 ---
 
+
+# Books/Monographs:
+
 ## *Psychology's WEIRD Problems*.<br>Cambridge University Press, 2023. ([Link](https://www.cambridge.org/core/elements/abs/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB#element)) <img align="right" src="https://gui-cogsci.github.io/images/elements-weird.jpg" width="130">
 >  Psychology has a WEIRD problem. It is overly reliant on participants from Western, Educated, Industrialized, Rich, and Democratic societies. Over the last decade this problem has come to be widely acknowledged. However, psychologists have so far made little progress in making psychology more diverse. We propose that the lack of progress can be explained by the fact that the original WEIRD critique was too narrow in scope. The WEIRD critique was originally framed as a single problem of a lack of diversity among research participants. But in fact there are at least four overlapping problems. Psychological science is WEIRD not only in terms of who makes up its participant pool, but also in terms of its theoretical commitments, methodological assumptions, and institutional structures. Psychological science as currently constituted is a fundamentally WEIRD enterprise. Coming to terms with this is necessary if we wish to make psychology relevant for all humanity.
 > 
@@ -17,6 +20,8 @@ author_profile: true
 
 
 
+# Journal Articles, Book Chapters, Conference Proceedings Papers, etc:
+
 
 
 ## Scientific Practice as Ecological-Enactive Co-Construction. (w/ Thomas van Es and Ines Hipolito)<br>*Synthese*, 2023. ([Link](https://link.springer.com/article/10.1007/s11229-023-04215-1)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
@@ -27,6 +32,18 @@ author_profile: true
 >> Sanches de Oliveira, G., van Es, T. & Hip ́olito, I. (2023) Scientific practice as ecological-enactive co-construction. _Synthese_ 202, 4. DOI: 10.1007/s11229-023-04215-1
 
 <br><br>
+
+
+## The Point is to Change the World: Enactivist Reflexivity Motivates Resisting the Utopian vs. Scientific Distinction. <br>*Constructivist Foundations*, 2023. ([Link](https://constructivist.info/19/1/024.oliveira))  <img align="right" src="https://gui-cogsci.github.io/images/constructivist.jpg" width="130">
+> Open peer commentary on the article “Enactivism: Utopian & Scientific” by Russell Meyer & Nick Brancazio. Abstract: The distinction Meyer and Brancazio offer between utopian and scientific projects within enactivism is a helpful addition to the more well-established differentiation between enactivist strands. However, I propose that the distinction works well only as an interpretive lens for looking at enactivism from the outside. In contrast, considered “from the inside” or in light of enactivist commitments, enactivism has good reasons to challenge the currently dominant assumptions about science and philosophy that underlie the distinction.
+>
+> KEYWORDS: enactivism; philosophy; science; reflexivity; theory; practice.
+> 
+>> Sanches de Oliveira, G. (2023). The point is to change the world: Enactivist reflexivity motivates resisting the utopian vs. scientific distinction. Constructivist Foundations 19(1): 24–27. https://constructivist.info/19/1/024
+
+<br><br>
+
+
 
 
 
