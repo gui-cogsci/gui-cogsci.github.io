@@ -23,21 +23,10 @@ author_profile: true
 # Journal Articles, Book Chapters, Conference Proceedings Papers, etc:
 
 
-
-## Scientific Practice as Ecological-Enactive Co-Construction. (w/ Thomas van Es and Ines Hipolito)<br>*Synthese*, 2023. ([Link](https://link.springer.com/article/10.1007/s11229-023-04215-1)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
->  Philosophy of science has undergone a naturalistic turn, moving away from traditional idealized concerns with the logical structure of scientific theories and toward focusing on real-world scientific practice, especially in domains such as modeling and experimentation. As part of this shift, recent work has explored how the project of philosophically understanding science as a natural phenomenon can be enriched by drawing from different fields and disciplines, including niche construction theory in evolutionary biology, on the one hand, and ecological and enactive views in embodied cognitive science, on the other. But these insights have so far been explored in separation from each other, without clear indication of whether they can work together. Moreover, the focus on particular practices, however insightful, has tended to lack consideration of potential further implications for a naturalized understanding of science as a whole (i.e., above and beyond those particular practices). Motivated by these developments, here we sketch a broad-ranging view of science, scientific practice and scientific knowledge in terms of ecological-enactive co-construction. The view we propose situates science in the biological, evolutionary context of  human embodied cognitive activity aimed at addressing the demands of life. This motivates reframing theory as practice, and reconceptualizing scientific knowledge in ecological terms, as relational and world-involving. Our view also brings to the forefront of attention the fundamental link between ideas about the nature of mind, of science and of nature itself, which we explore by outlining how our proposal differs from more conservative, and narrower, conceptions of “cognitive niche construction.”
-> 
-> KEYWORDS: scientific practice; theory; naturalism; ecological psychology; enactivism; niche construction; cognition.
->
->> Sanches de Oliveira, G., van Es, T. & Hip ́olito, I. (2023) Scientific practice as ecological-enactive co-construction. _Synthese_ 202, 4. DOI: 10.1007/s11229-023-04215-1
-
-<br><br>
-
-
 ## The Point is to Change the World: Enactivist Reflexivity Motivates Resisting the Utopian vs. Scientific Distinction. <br>*Constructivist Foundations*, 2023. ([Link](https://constructivist.info/19/1/024.oliveira))  <img align="right" src="https://gui-cogsci.github.io/images/constructivist.jpg" width="130">
 > Open peer commentary on the article “Enactivism: Utopian & Scientific” by Russell Meyer & Nick Brancazio. Abstract: The distinction Meyer and Brancazio offer between utopian and scientific projects within enactivism is a helpful addition to the more well-established differentiation between enactivist strands. However, I propose that the distinction works well only as an interpretive lens for looking at enactivism from the outside. In contrast, considered “from the inside” or in light of enactivist commitments, enactivism has good reasons to challenge the currently dominant assumptions about science and philosophy that underlie the distinction.
 >
-> KEYWORDS: enactivism; philosophy; science; reflexivity; theory; practice.
+> KEYWORDS: enactivism; pragmatism; philosophy; science; reflexivity; theory; practice.
 > 
 >> Sanches de Oliveira, G. (2023). The point is to change the world: Enactivist reflexivity motivates resisting the utopian vs. scientific distinction. Constructivist Foundations 19(1): 24–27. https://constructivist.info/19/1/024
 
@@ -55,6 +44,20 @@ author_profile: true
 >> Sanches de Oliveira, G. (2023). Doing Without Levels. Spontaneous Generations Volume 11, Issue 1 (Spring/Summer 2023). DOI: 10.4245/spongen.v11i1.1489
 
 <br><br>
+
+
+
+
+## Scientific Practice as Ecological-Enactive Co-Construction. (w/ Thomas van Es and Ines Hipolito)<br>*Synthese*, 2023. ([Link](https://link.springer.com/article/10.1007/s11229-023-04215-1)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
+>  Philosophy of science has undergone a naturalistic turn, moving away from traditional idealized concerns with the logical structure of scientific theories and toward focusing on real-world scientific practice, especially in domains such as modeling and experimentation. As part of this shift, recent work has explored how the project of philosophically understanding science as a natural phenomenon can be enriched by drawing from different fields and disciplines, including niche construction theory in evolutionary biology, on the one hand, and ecological and enactive views in embodied cognitive science, on the other. But these insights have so far been explored in separation from each other, without clear indication of whether they can work together. Moreover, the focus on particular practices, however insightful, has tended to lack consideration of potential further implications for a naturalized understanding of science as a whole (i.e., above and beyond those particular practices). Motivated by these developments, here we sketch a broad-ranging view of science, scientific practice and scientific knowledge in terms of ecological-enactive co-construction. The view we propose situates science in the biological, evolutionary context of  human embodied cognitive activity aimed at addressing the demands of life. This motivates reframing theory as practice, and reconceptualizing scientific knowledge in ecological terms, as relational and world-involving. Our view also brings to the forefront of attention the fundamental link between ideas about the nature of mind, of science and of nature itself, which we explore by outlining how our proposal differs from more conservative, and narrower, conceptions of “cognitive niche construction.”
+> 
+> KEYWORDS: scientific practice; theory; naturalism; ecological psychology; enactivism; niche construction; cognition.
+>
+>> Sanches de Oliveira, G., van Es, T. & Hip ́olito, I. (2023) Scientific practice as ecological-enactive co-construction. _Synthese_ 202, 4. DOI: 10.1007/s11229-023-04215-1
+
+<br><br>
+
+
 
 
 
