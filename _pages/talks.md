@@ -114,7 +114,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Co-chair of Graduate Student Council panel "Interdisciplinarity and Philosophy: Training, Research, Teaching, and Service " at the American Philosophical Association, Eastern Division 2019 meeting. Vancouver, BC, Canada (April 17-20, 2019)
 
-- **"Ecological Computational Thinking: Information and Exploration in Visualization and Simulation."** CAP Center Guy Van Orden Conference. University of Cincinnati, OH, USA (March 29, 2019) 
+- Invited talk **"Ecological Computational Thinking: Information and Exploration in Visualization and Simulation."** CAP Center Guy Van Orden Conference. University of Cincinnati, OH, USA (March 29, 2019) 
 
 (61) **"Being in the Virtual World:  An Action-Based Measure of Presence in  Virtual Reality."** [co-authored with Chris Riehm] 111th Annual Meeting of the Southern Society for Philosophy and Psychology: psychology program. Cincinnati, OH, USA (March 7-9, 2019)
 
