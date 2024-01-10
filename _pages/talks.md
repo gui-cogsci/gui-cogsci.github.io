@@ -48,6 +48,10 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Chair of symposium _[Embodied Cognition in Context](https://escholarship.org/uc/item/1139g9g6)_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
+- Co-organizer and chair of the [Berlin Workshop on Ecological Psychology](http://www.embody.group/ecopsych2023/) at TU Berlin (June 9, 2023)
+
+- Co-organizer and chair of the [Workshop on Nonlinear Dynamics and Embodied Cognition](http://www.embody.group/nonlinear2023) at TU Berlin (June 8, 2023)
+
 <br>
 
 ### 2022
@@ -72,7 +76,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 (72) **"Explanatory Diversity in Embodied Cognitive Science: Taking Situation Seriously Motivates Pluralism."**   Workshop on the Methodology of Situated Cognition Research. University of Kassel, Germany (March 3-4, 2021)  [online]
 
--  **"Embodied Cognition and Nonlinear Dynamics: Theory, Methods, and Applications."**  Colloquium series, Institut für Psychologie und Arbeitswissenschaft. Technische Universität Berlin, Germany (January 13, 2021)  [online]
+-  Invited talk **"Embodied Cognition and Nonlinear Dynamics: Theory, Methods, and Applications."**  Colloquium series, Institut für Psychologie und Arbeitswissenschaft. Technische Universität Berlin, Germany (January 13, 2021)  [online]
 
 <br>
 
@@ -92,9 +96,9 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 (68) **"Bee-ing in the World: A Phenomenological-Ecological Investigation of Sensorimotor Unity in a Novel Insect-Tracking Task."** [with Chris Riehm; poster]  International Conference on Perception and Action. Groningen, Netherlands (July 3-6, 2019)
 
-- **"Heidegger and Merleau-Ponty walk into a lab... Philosophy, Dynamics, and Embodied Cognition."** Human Interactivity and Language Lab meeting. University of Warsaw, Poland (June 27, 2019) 
+- Invited talk **"Heidegger and Merleau-Ponty walk into a lab... Philosophy, Dynamics, and Embodied Cognition."** Human Interactivity and Language Lab meeting. University of Warsaw, Poland (June 27, 2019) 
 
-- **"Representation in Mind and in Science: An Artifactual Alternative."** Seminar on the Philosophy of Cognitive Science IFiS PAN. University of Warsaw, Poland (June 24, 2019)
+- Invited talk **"Representation in Mind and in Science: An Artifactual Alternative."** Seminar on the Philosophy of Cognitive Science IFiS PAN. University of Warsaw, Poland (June 24, 2019)
 
 (67) **"What You See Isn’t Always What You Get: Embodied Cognition and Computer-Based Climate Change Education."** Next Earth: Teaching Climate Change Across the Disciplines. University of California, Santa Barbara (June 10-30, 2019)
 
@@ -146,7 +150,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Chair of Colloquium "Neuroscience, Mind, and Attention" at the American Philosophical Association, Central Division 2018 meeting. Chicago, USA (February 21-24, 2018) 
 
-- **“Scientific Modeling without Representationalism.”** HumanitiesNow: Taft Research Center annual meeting. University of Cincinnati, OH, USA (February 20-21, 2018) 
+- Invited talk **“Scientific Modeling without Representationalism.”** HumanitiesNow: Taft Research Center annual meeting. University of Cincinnati, OH, USA (February 20-21, 2018) 
 <br>
 
 
@@ -172,7 +176,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 (40)  **“Emotion as a Form of Perception, or Why William James Did Not Believe the James-Lange Theory.”** American Philosophical Association, Central Division. Kansas City, MO, USA (March 1-4, 2017) 
 
-- **"Representationalism and the Analogy Between Scientific Models and Maps."** HumanitiesNow: Taft Research Center annual meeting. University of Cincinnati, OH, USA (February 9-10, 2017) 
+- Invited talk **"Representationalism and the Analogy Between Scientific Models and Maps."** HumanitiesNow: Taft Research Center annual meeting. University of Cincinnati, OH, USA (February 9-10, 2017) 
 <br>
 
 
