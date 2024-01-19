@@ -24,7 +24,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk **"Model-target relations reconceived: rethinking the ontology and epistemology of scientific modeling"** at the University of Santiago de Compostela, Spain (January 24, 2024)
 
-- Comments on ``The limits of reductionism in the scientific controversies of pain' by Alberto Monterde Fuertes. 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
+- Comments on "The limits of reductionism in the scientific controversies of pain" by Alberto Monterde Fuertes. 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
 
 (85) **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science."** 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
 
