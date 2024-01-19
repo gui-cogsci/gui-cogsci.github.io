@@ -18,11 +18,11 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk at the University of the Basque Country, Spain (May 16, 2024)
 
-- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science"** at Tilburg University, Netherlands (March 2024)
+- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science"** at Tilburg University, Netherlands (March 14, 2024)
 
-- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science."** at the University of Antwerp, Belgium (March 2024)
+- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science."** at the University of Antwerp, Belgium (March 13, 2024)
 
-- Invited talk at the University of Santiago de Compostela, Spain (January 24, 2024)
+- Invited talk **"Model-target relations reconceived: rethinking the ontology and epistemology of scientific modeling"** at the University of Santiago de Compostela, Spain (January 24, 2024)
 
 - Comments on ``The limits of reductionism in the scientific controversies of pain' by Alberto Monterde Fuertes. 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
 
