@@ -8,6 +8,8 @@ author_profile: true
 
 List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. Talks are in person unless otherwise indicated. A map of events is available at the end.
 
+<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria (17); upcoming: Sweden? Norway?  -->
+
 <br>
 
 ### 2024
