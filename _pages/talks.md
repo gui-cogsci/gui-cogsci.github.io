@@ -18,6 +18,8 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 <!-- - Invited talk at the University of Central Florida, USA (date TBD) [online] -->
 
+(86) **"Radical Empiricism Repeatedly Misunderstood."**  [with Vicente Raja] The Fifteenth Biennial Congress of the International Society for the History of Philosophy of Science (HOPOS), in Vienna, Austria (July 09-12, 2024).
+
 - Invited talk at the University of the Basque Country, Spain (May 16, 2024)
 
 - Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science"** at Tilburg University, Netherlands (March 14, 2024)
