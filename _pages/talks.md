@@ -18,7 +18,11 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 <!-- - Invited talk at the University of Central Florida, USA (date TBD) [online] -->
 
-(86) **"Radical Empiricism Repeatedly Misunderstood."**  [with Vicente Raja] The Fifteenth Biennial Congress of the International Society for the History of Philosophy of Science (HOPOS), in Vienna, Austria (July 09-12, 2024).
+(87) **"Radical Empiricism Repeatedly Misunderstood."**  [with Vicente Raja] The Fifteenth Biennial Congress of the International Society for the History of Philosophy of Science (HOPOS), in Vienna, Austria (July 09-12, 2024).
+
+(86) **"Scientific Expertise as Habit."** Symposium _Reading, Learning, Thinking: Making Sense of Intellectual Expertise_. The XXII International Conference on Perception and Action (ICPA), in Trondheim, Norway (25–28 June 2024)
+
+- Organizer and chair of symposium _Reading, Learning, Thinking: Making Sense of Intellectual Expertise_. The XXII International Conference on Perception and Action (ICPA), in Trondheim, Norway (25–28 June 2024)
 
 - Invited talk at the University of the Basque Country, Spain (May 16, 2024)
 
@@ -52,7 +56,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 (80) **"Ecological Psychology and Cognition in Context: Theoretical Foundations and Meta-Theoretical Implications."** Symposium _Embodied Cognition in Context_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
-- Chair of symposium _[Embodied Cognition in Context](https://escholarship.org/uc/item/1139g9g6)_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+- Organizer and chair of symposium _[Embodied Cognition in Context](https://escholarship.org/uc/item/1139g9g6)_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
 - Co-organizer and chair of the [Berlin Workshop on Ecological Psychology](http://www.embody.group/ecopsych2023/) at TU Berlin (June 9, 2023)
 
