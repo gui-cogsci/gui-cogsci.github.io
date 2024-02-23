@@ -24,6 +24,8 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Organizer and chair of symposium _Reading, Learning, Thinking: Making Sense of Intellectual Expertise_. The XXII International Conference on Perception and Action (ICPA), in Trondheim, Norway (25–28 June 2024)
 
+- Co-organizer of the workshop _[Dimensions of Radical Embodiment](https://radicalembodiment.github.io/)_, at the University of Murcia, Spain (June 19-21, 2024)
+
 - Invited talk at the University of the Basque Country, Spain (May 16, 2024)
 
 - Invited talk **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science"** at Tilburg University, Netherlands (March 14, 2024)
