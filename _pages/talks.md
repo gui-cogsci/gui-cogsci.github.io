@@ -36,7 +36,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk **"Extended Minds, Ecological Psychology and Naturalized Philosophy of Science."** at the University of Antwerp, Belgium (March 18, 2024)
 
-- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Philosophy of Science"** at Tilburg University, Netherlands (March 14, 2024)
+- Invited talk **"Extended Minds, Ecological Psychology and Naturalized Philosophy of Science"** at Tilburg University, Netherlands (March 13, 2024)
 
 - Invited talk **"Extended Minds, Ecological Psychology and Naturalized Philosophy of Science"** at Radboud University Nijmegen, Netherlands (March 6, 2024)
 
