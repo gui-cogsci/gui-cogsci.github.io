@@ -26,6 +26,10 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Co-organizer of the workshop _[Dimensions of Radical Embodiment](https://radicalembodiment.github.io/)_, at the University of Murcia, Spain (June 19-21, 2024)
 
+- Co-organizer of the online workshop _Perspectivism and Realism in Science and Mind_ (June 2024)
+
+- Invited talk at the University of Vienna, Austria (May 2024)
+
 - Invited talk at the University of the Basque Country, Spain (May 16, 2024)
 
 - Invited talk / commentator at _[CLEA Convida](https://sites.google.com/view/cleafil/clea-convida)_ (April 2024)
