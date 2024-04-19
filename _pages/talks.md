@@ -8,15 +8,19 @@ author_profile: true
 
 List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. Talks are in person unless otherwise indicated. A map of events is available at the end.
 
-<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria (17); upcoming: Sweden? Norway?  -->
+<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria, Norway (18); upcoming: Sweden?  -->
 
 <br>
 
 ### 2024
 
-- Invited talk at Linköping University, Sweden (date TBD)
+<!-- - Invited talk at Linköping University, Sweden (date TBD) -->
 
 <!-- - Invited talk at the University of Central Florida, USA (date TBD) [online] -->
+
+(89) **"Deflating deflationism: A radical artifactualist reading of Suarez’s inferentialism."** Book Symposium _Inference and Representation in Modeling Science_. XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
+
+(88) **"The Reflexivity Frontier in 4E Cognition."** Symposium _Challenges and Opportunities for the Future of 4E Cognitive Science_. XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
 
 (87) **"Radical Empiricism Repeatedly Misunderstood."**  [with Vicente Raja] The Fifteenth Biennial Congress of the International Society for the History of Philosophy of Science (HOPOS), in Vienna, Austria (July 09-12, 2024).
 
