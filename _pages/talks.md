@@ -34,7 +34,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Co-organizer of the online workshop _[PRISM: Perspectivism and Realism In Science and Mind](http://www.embody.group/prism2024/)_ (June 4 and 11, 2024)
 
-- Invited talk at the University of Vienna, Austria (May 23-24, 2024)
+- Invited talk **"Causal Pattern Realism and Artifactualism without Representationalism"** at the _Artifacts, Models and Materiality_ seminar, University of Vienna, Austria (May 23-24, 2024)
 
 - Invited talk **"William James was not a Jamesian: James’s legacy and the boundaries of mind"** at the University of the Basque Country, Spain (May 16, 2024)
 
