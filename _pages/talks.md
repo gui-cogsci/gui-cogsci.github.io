@@ -36,7 +36,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk **"William James was not a Jamesian: James’s legacy and the boundaries of mind"** at the University of Oviedo, Spain (May 29, 2024)
 
-- Invited talk **"Causal Pattern Realism and Artifactualism without Representationalism"** at the _Artifacts, Models and Materiality_ seminar, University of Vienna, Austria (May 23-24, 2024)
+- Invited talk **"Causal Pattern Realism and Artifactualism without Representationalism"** at the _[Artifacts, Models and Materiality](http://www.possiblelife.eu/events/artifacts-models-and-materiality)_ workshop, University of Vienna, Austria (May 23-24, 2024)
 
 - Invited talk **"William James was not a Jamesian: James’s legacy and the boundaries of mind"** at the University of the Basque Country, Spain (May 16, 2024)
 
