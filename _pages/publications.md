@@ -27,14 +27,35 @@ author_profile: true
 
 
 
+## Two Species of Realism. (w/ Vicente Raja) <br> *European Journal for Philosophy of Science*, 2024. ([Link](coming soon))  <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
+> Abstract: Different species of realism have been proposed in the scientific and philosophical literature. Two of these species are direct realism and causal pattern realism. Direct realism is a form of perceptual realism proposed by ecological psychologists within cognitive science. Causal pattern realism has been proposed within the philosophy of model-based science. Both species are able to accommodate some of the main tenets and motivations of instrumentalism. The main aim of this paper is to explore the conceptual moves that make both direct realism and causal pattern realism tenable realist positions able to accommodate an instrumentalist stance. Such conceptual moves are (i) the rejection of veritism and (ii) the re-structuring of the phenomena of interest. We will then show that these conceptual moves are instances of the ones of a common realist genus we name pragmatist realism.
+>
+> KEYWORDS: Philosophy of science,  Philosophy of cognitive science, Realism, Instrumentalism, Direct realism, Causal patterns
+> 
+>>  Raja, V., & Sanches de Oliveira G. (2024). Two Species of Realism. _European Journal for Philosophy of Science_. http://www.doi.org/10.1007/s13194-024-00596-3 
+
+<br><br>
 
 
-## Human Brain Dynamics Dissociate Early Perceptual and Late Motor-Related Stages of Affordance Processing. <br>*European Journal of Neuroscience*, 2024. ([Link](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16461))  <img align="right" src="https://gui-cogsci.github.io/images/ejn.jpg" width="130">
+
+## Rewilding psychology. (w/ Ed Baggs) <br> *Philosophical Transactions of the Royal Society B*, 2024. ([Link](coming soon))  <img align="right" src="https://gui-cogsci.github.io/images/philtransroyalb.jpg" width="130">
+> Abstract: Some commentators have recently argued that scientific psychology is overly reliant on artificial laboratory-based activities and undervalues field-based investigations. However, it remains unclear how a field-based programme of psychological research might be organized in a scalable way. We examine and compare two existing field-based approaches: Roger Barker’s behaviour settings programme and Edwin Hutchins’s distributed cognition programme. Both programmes prioritize observational work, and both reject the individual as the unit of analysis in favour of a community-scale unit. However, whereas the behaviour settings programme is concerned with structural properties of community life, distributed cognition is concerned more narrowly with the functional analysis of expert team performance. We discuss how these programmes can inform a future community-scale approach to studying psychology in the wild. We conclude that the two programs are proof of concept of the possibility of a
+scientific psychology that rejects methodological individualism. This article is part of the theme issue ‘People, places, things and communities: expanding behaviour settings theory in the 21st century’.
+>
+> KEYWORDS: behaviour settings, distributed cognition, community psychology, WEIRD, psychological methods, methodological individualism
+> 
+>>  Baggs E, & Sanches de Oliveira G. (2024). Rewilding psychology. _Phil. Trans. R. Soc. B_ 379: 20230287. https://doi.org/10.1098/rstb.2023.0287
+
+<br><br>
+
+
+
+## Human Brain Dynamics Dissociate Early Perceptual and Late Motor-Related Stages of Affordance Processing. (w/ Sheng Wang, ak Djebbara and Klaus Gramann) <br>*European Journal of Neuroscience*, 2024. ([Link](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16461))  <img align="right" src="https://gui-cogsci.github.io/images/ejn.jpg" width="130">
 > Abstract: Affordances, the opportunities for action offered by the environment to an agent, are vital for meaningful behaviour and exist in every interaction with the environment. There is an ongoing debate in the field about whether the perception of affordances is an automated process. Some studies suggest that affordance perception is an automated process that is independent from the visual context and bodily interaction with the environment, whereas others argue that it is modulated by the visual and motor context in which affordances are perceived. The present paper aims to resolve this debate by examining affordance automaticity from the perspective of sensorimotor time windows. To investigate the impact of different forms of bodily interactions with an environment, that is, the movement context (physical vs. joystick movement), we replicated a previous study on affordance perception in which participants actively moved through differently wide doors in an immersive 3D virtual environment. In the present study, we displayed the same environment on a 2D screen with participants moving through doors of different widths using the keys on a standard keyboard. We compared components of the event-related potential (ERP) from the continuously recorded electroencephalogram (EEG) that were previously reported to be related to affordance perception of architectural transitions (passable and impassable doors). Comparing early sensory and later motor-related ERPs, our study replicated ERPs reflecting early affordance perception but found differences in later motor-related components. These results indicate a shift from automated perception of affordances during early sensorimotor time windows to movement context dependence of affordance perception at later stages, suggesting that affordance perception is a dynamic and flexible process that changes over sensorimotor stages.
 >
 > KEYWORDS: affordances; contextual dependence; EEG; physical walking and joystick movement; sensorimotor time windows; time-varying automaticity
 > 
->>  Wang, S., Djebbara, Z., Sanches de Oliveira, G., & Gramann, K. (2024). Human brain dynamics dissociate early perceptual and late motor-related stages of affordance processing. European Journal of Neuroscience, 1–22. https://doi.org/10.1111/ejn.16461 
+>>  Wang, S., Djebbara, Z., Sanches de Oliveira, G., & Gramann, K. (2024). Human brain dynamics dissociate early perceptual and late motor-related stages of affordance processing. _European Journal of Neuroscience_, 1–22. https://doi.org/10.1111/ejn.16461 
 
 <br><br>
 
@@ -47,7 +68,7 @@ author_profile: true
 >
 > KEYWORDS: enactivism; pragmatism; philosophy; science; reflexivity; theory; practice.
 > 
->> Sanches de Oliveira, G. (2023). The point is to change the world: Enactivist reflexivity motivates resisting the utopian vs. scientific distinction. Constructivist Foundations 19(1): 24–27. https://constructivist.info/19/1/024
+>> Sanches de Oliveira, G. (2023). The point is to change the world: Enactivist reflexivity motivates resisting the utopian vs. scientific distinction. _Constructivist Foundations_ 19(1): 24–27. https://constructivist.info/19/1/024
 
 <br><br>
 
@@ -60,7 +81,7 @@ author_profile: true
 >
 > KEYWORDS: agency; embodied cognition; synergies; individualism; levels-thinking.
 > 
->> Sanches de Oliveira, G. (2023). Doing Without Levels. Spontaneous Generations Volume 11, Issue 1 (Spring/Summer 2023). DOI: 10.4245/spongen.v11i1.1489
+>> Sanches de Oliveira, G. (2023). Doing Without Levels. _Spontaneous Generations_, Volume 11, Issue 1 (Spring/Summer 2023). DOI: 10.4245/spongen.v11i1.1489
 
 <br><br>
 
