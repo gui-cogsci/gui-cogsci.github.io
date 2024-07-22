@@ -18,13 +18,15 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 <!-- - Invited talk at the University of Central Florida, USA (date TBD) [online] -->
 
-(90) **"Model-target relations reconceived: rethinking the ontology and epistemology of scientific modeling."** XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
-
-(89) **"Deflating deflationism: A radical artifactualist reading of Suarez’s inferentialism."** Book Symposium _Inference and Representation in Modeling Science_. XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
+(89) **"Model-target relations reconceived: rethinking the ontology and epistemology of scientific modeling."** XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
 
 (88) **"The Reflexivity Frontier in 4E Cognition."** Symposium _Challenges and Opportunities for the Future of 4E Cognitive Science_. XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
 
-(87) **"Radical Empiricism Repeatedly Misunderstood."**  [with Vicente Raja] The Fifteenth Biennial Congress of the International Society for the History of Philosophy of Science (HOPOS), in Vienna, Austria (July 09-12, 2024).
+(87) **"Deflating deflationism: A radical artifactualist reading of Suarez’s inferentialism."** Symposium _Inference and Representation in Modeling Science_. XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
+
+- Organizer and chair of symposium _Inference and Representation in Modeling Science_. XI Conference of the Spanish Society of Logic, Methodology and Philosophy of Science (SLMFCE), in Oviedo, Spain (July 16-19, 2024)
+
+(X) **"Radical Empiricism Repeatedly Misunderstood."**  [with Vicente Raja] The Fifteenth Biennial Congress of the International Society for the History of Philosophy of Science (HOPOS), in Vienna, Austria (July 09-12, 2024). [talk accepted; unable to attend]
 
 (86) **"Scientific Expertise as Habit."** Symposium _Reading, Learning, Thinking: Making Sense of Intellectual Expertise_. The XXII International Conference on Perception and Action (ICPA), in Trondheim, Norway (25–28 June 2024)
 
