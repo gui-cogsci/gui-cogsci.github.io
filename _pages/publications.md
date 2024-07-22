@@ -24,6 +24,24 @@ author_profile: true
 # Journal Articles, Book Chapters, Conference Proceedings Papers, etc:
 
 
+
+
+
+
+
+## Human Brain Dynamics Dissociate Early Perceptual and Late Motor-Related Stages of Affordance Processing. <br>*European Journal of Neuroscience*, 2024. ([Link](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16461))  <img align="right" src="https://gui-cogsci.github.io/images/ejn.jpg" width="130">
+> Abstract: Affordances, the opportunities for action offered by the environment to an agent, are vital for meaningful behaviour and exist in every interaction with the environment. There is an ongoing debate in the field about whether the perception of affordances is an automated process. Some studies suggest that affordance perception is an automated process that is independent from the visual context and bodily interaction with the environment, whereas others argue that it is modulated by the visual and motor context in which affordances are perceived. The present paper aims to resolve this debate by examining affordance automaticity from the perspective of sensorimotor time windows. To investigate the impact of different forms of bodily interactions with an environment, that is, the movement context (physical vs. joystick movement), we replicated a previous study on affordance perception in which participants actively moved through differently wide doors in an immersive 3D virtual environment. In the present study, we displayed the same environment on a 2D screen with participants moving through doors of different widths using the keys on a standard keyboard. We compared components of the event-related potential (ERP) from the continuously recorded electroencephalogram (EEG) that were previously reported to be related to affordance perception of architectural transitions (passable and impassable doors). Comparing early sensory and later motor-related ERPs, our study replicated ERPs reflecting early affordance perception but found differences in later motor-related components. These results indicate a shift from automated perception of affordances during early sensorimotor time windows to movement context dependence of affordance perception at later stages, suggesting that affordance perception is a dynamic and flexible process that changes over sensorimotor stages.
+>
+> KEYWORDS: affordances; contextual dependence; EEG; physical walking and joystick movement; sensorimotor time windows; time-varying automaticity
+> 
+>>  Wang, S., Djebbara, Z., Sanches de Oliveira, G., & Gramann, K. (2024). Human brain dynamics dissociate early perceptual and late motor-related stages of affordance processing. European Journal of Neuroscience, 1–22. https://doi.org/10.1111/ejn.16461 
+
+<br><br>
+
+
+
+
+
 ## The Point is to Change the World: Enactivist Reflexivity Motivates Resisting the Utopian vs. Scientific Distinction. <br>*Constructivist Foundations*, 2023. ([Link](https://constructivist.info/19/1/024.oliveira))  <img align="right" src="https://gui-cogsci.github.io/images/constructivist.jpg" width="130">
 > Open peer commentary on the article “Enactivism: Utopian & Scientific” by Russell Meyer & Nick Brancazio. Abstract: The distinction Meyer and Brancazio offer between utopian and scientific projects within enactivism is a helpful addition to the more well-established differentiation between enactivist strands. However, I propose that the distinction works well only as an interpretive lens for looking at enactivism from the outside. In contrast, considered “from the inside” or in light of enactivist commitments, enactivism has good reasons to challenge the currently dominant assumptions about science and philosophy that underlie the distinction.
 >
