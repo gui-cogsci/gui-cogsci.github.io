@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gui Sanches de Oliveira"
-  avatar           : "gui-headshot.jpg"
+  avatar           : "https://gui.embody.group/images/gui-headshot.jpg"
   bio              : "philosophy + embodied cognitive science + ecological psychology"
   location         : 
   employer         : "Technische Universität Berlin"
