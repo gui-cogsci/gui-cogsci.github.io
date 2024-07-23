@@ -34,7 +34,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Co-organizer of the workshop _[Dimensions of Radical Embodiment](https://radicalembodiment.github.io/)_, at the University of Murcia, Spain (June 19-21, 2024)
 
-- Co-organizer of the online workshop _[PRISM: Perspectivism and Realism In Science and Mind](http://www.embody.group/prism2024/)_ (June 4 and 11, 2024)
+- Co-organizer of the online workshop _[PRISM: Perspectivism and Realism In Science and Mind](https://www.embody.group/prism2024/)_ (June 4 and 11, 2024)
 
 - Invited talk **"William James was not a Jamesian: James’s legacy and the boundaries of mind"** at the University of Oviedo, Spain (May 29, 2024)
 
@@ -78,9 +78,9 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Organizer and chair of symposium _[Embodied Cognition in Context](https://escholarship.org/uc/item/1139g9g6)_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
-- Co-organizer and chair of the [Berlin Workshop on Ecological Psychology](http://www.embody.group/ecopsych2023/) at TU Berlin (June 9, 2023)
+- Co-organizer and chair of the [Berlin Workshop on Ecological Psychology](https://www.embody.group/ecopsych2023/) at TU Berlin (June 9, 2023)
 
-- Co-organizer and chair of the [Workshop on Nonlinear Dynamics and Embodied Cognition](http://www.embody.group/nonlinear2023) at TU Berlin (June 8, 2023)
+- Co-organizer and chair of the [Workshop on Nonlinear Dynamics and Embodied Cognition](https://www.embody.group/nonlinear2023) at TU Berlin (June 8, 2023)
 
 <br>
 
