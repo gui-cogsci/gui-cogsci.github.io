@@ -27,7 +27,7 @@ author_profile: true
 
 
 
-## Two Species of Realism. (w/ Vicente Raja) <br> *European Journal for Philosophy of Science*, 2024. ([Link](coming soon))  <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
+## Two Species of Realism. (w/ Vicente Raja) <br> *European Journal for Philosophy of Science*, 2024. ([Link](http://www.doi.org/10.1007/s13194-024-00596-3))  <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
 > Abstract: Different species of realism have been proposed in the scientific and philosophical literature. Two of these species are direct realism and causal pattern realism. Direct realism is a form of perceptual realism proposed by ecological psychologists within cognitive science. Causal pattern realism has been proposed within the philosophy of model-based science. Both species are able to accommodate some of the main tenets and motivations of instrumentalism. The main aim of this paper is to explore the conceptual moves that make both direct realism and causal pattern realism tenable realist positions able to accommodate an instrumentalist stance. Such conceptual moves are (i) the rejection of veritism and (ii) the re-structuring of the phenomena of interest. We will then show that these conceptual moves are instances of the ones of a common realist genus we name pragmatist realism.
 >
 > KEYWORDS: Philosophy of science,  Philosophy of cognitive science, Realism, Instrumentalism, Direct realism, Causal patterns
