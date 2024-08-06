@@ -10,6 +10,8 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 <!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria, Norway (18); upcoming: Sweden?  -->
 
+<!-- Invited: OK State in Tulsa, Cincinnati, Warsaw, Berlin, Groningen, Santiago de Compostela, Radboud Nijmegen, Tilburg, Antwerp, Basque Country, Vienna, Oviedo,    -->
+
 <br>
 
 ### 2024
@@ -52,7 +54,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 - Invited talk **"Model-target relations reconceived: rethinking the ontology and epistemology of scientific modeling"** at the University of Santiago de Compostela, Spain (January 24, 2024)
 
-- Comments on "The limits of reductionism in the scientific controversies of pain" by Alberto Monterde Fuertes. 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
+- Invited commentary on "The limits of reductionism in the scientific controversies of pain" by Alberto Monterde Fuertes. 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
 
 (85) **"Extended Minds, Ecological Psychology and Naturalized Epistemology of Science."** 1st Conference of the Philosophy of Science Network (FICIRED), at the University of Santiago de Compostela, Spain (January 22-23, 2024).
 
@@ -274,7 +276,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 (15)  **“The Persistence of Mindreading in Ratcliffe's Non-Mindreading-Based Embodied-Situated Model of Interpersonal Understanding.”** Central States Philosophical Association. Oklahoma State University – Tulsa, OK, USA (Oct 4-5, 2013) 
 
-- Comments on ``Fiction, Counterfactuals, and Fiction As Counterfactuals'' by Jared Henderson. Central States Philosophical Association. Oklahoma State University. Tulsa, OK, USA (Oct 4-5, 2013)
+- Invited commentary on ``Fiction, Counterfactuals, and Fiction As Counterfactuals'' by Jared Henderson. Central States Philosophical Association. Oklahoma State University. Tulsa, OK, USA (Oct 4-5, 2013)
 
 (14)  **“Is There Life Before Death?: Ivan Illich on Health, Medicalization, and Mortality.”** Three Rivers Philosophy Conference 2013: Death – The Reality of an Idea. University of South Carolina – Columbia, SC, USA (April 12-14, 2013)
 
