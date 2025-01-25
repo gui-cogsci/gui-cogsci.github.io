@@ -16,7 +16,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 ###  2025
 
-(91) **"Functionalism(s), Structuralism(s) and Evolutionary Thinking at the Interface of Psychology and Biology."** [with Tony Chemero]   International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB) 2025 meeting. University of Porto, Portugal (July 20-25, 2025).
+(91) **"Functionalism(s), Structuralism(s) and Evolutionary Thinking at the Interface of Psychology and Biology."** [with Tony Chemero]   Symposium _The evolving interface between biology and psychology_. International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB) 2025 meeting. University of Porto, Portugal (July 20-25, 2025).
 
 
 <br>
