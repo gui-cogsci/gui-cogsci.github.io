@@ -8,9 +8,16 @@ author_profile: true
 
 List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. Talks are in person unless otherwise indicated. A map of events is available at the end.
 
-<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria, Norway (18); upcoming: Sweden?  -->
+<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria, Norway (18); upcoming: Portugal; Sweden?  -->
 
 <!-- Invited: OK State in Tulsa, Cincinnati, Warsaw, Berlin, Groningen, Santiago de Compostela, Radboud Nijmegen, Tilburg, Antwerp, Basque Country, Vienna, Oviedo,    -->
+
+<br>
+
+###  2025
+
+(91) **"Functionalism(s), Structuralism(s) and Evolutionary Thinking at the Interface of Psychology and Biology."** [with Tony Chemero]   International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB) 2025 meeting. University of Porto, Portugal (July 20-25, 2025).
+
 
 <br>
 
