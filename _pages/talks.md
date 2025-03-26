@@ -16,7 +16,11 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 ###  2025
 
-(91) **"Functionalism(s), Structuralism(s) and Evolutionary Thinking at the Interface of Psychology and Biology."** [with Tony Chemero]   Symposium _The evolving interface between biology and psychology_. International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB) 2025 meeting. University of Porto, Portugal (July 20-25, 2025).
+(93) **"Functionalism(s), Structuralism(s) and Evolutionary Thinking at the Interface of Psychology and Biology."** [with Tony Chemero]   Symposium _The evolving interface between biology and psychology_. International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB) 2025 meeting. University of Porto, Portugal (July 20-25, 2025).
+
+(92) **"Affordances in the Wild."** [with Moritz Bammel]  Dimensions of Radical Embodiment 3. University of Southern Denmark, Odense, Denmark (June 19-20, 2025).
+
+(91) **"Ecological Psychology Meets Political Philosophy of Mind."** [with Moritz Bammel]  Dimensions of Radical Embodiment 3. University of Southern Denmark, Odense, Denmark (June 19-20, 2025).
 
 
 <br>
