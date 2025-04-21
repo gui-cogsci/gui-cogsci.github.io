@@ -8,13 +8,15 @@ author_profile: true
 
 List of peer-reviewed presentations (enumerated) and invited talks or other conference contributions (bulleted). Student co-authors are indicated by an asterisk. Talks are in person unless otherwise indicated. A map of events is available at the end.
 
-<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria, Norway (18); upcoming: Portugal; Sweden?  -->
+<!-- Country count: Brazil, USA, Uruguay, China, Canada, Netherlands, Italy, England, Finland, Czech, Germany, Belgium, Spain, Australia, Poland, Denmark, Austria, Norway (18); upcoming: Portugal;  -->
 
 <!-- Invited: OK State in Tulsa, Cincinnati, Warsaw, Berlin, Groningen, Santiago de Compostela, Radboud Nijmegen, Tilburg, Antwerp, Basque Country, Vienna, Oviedo,    -->
 
 <br>
 
 ###  2025
+
+(94) **"Affordances and (the idea of) higher cognition"** [with Vinícius Francisco Apolinário]   Symposium _Affordances and agency in development and evolution_. 10th biennial meeting of the European Philosophy of Science Association. Groningen, Netherlands (August 27-30, 2025).
 
 (93) **"Functionalism(s), Structuralism(s) and Evolutionary Thinking at the Interface of Psychology and Biology."** [with Tony Chemero]   Symposium _The evolving interface between biology and psychology_. International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB) 2025 meeting. University of Porto, Portugal (July 20-25, 2025).
 
