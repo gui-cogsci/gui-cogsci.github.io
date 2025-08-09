@@ -16,7 +16,6 @@ author_profile: true
 >
 >> Sanches de Oliveira, G., and Baggs, E. (2023) *Psychology’s WEIRD Problems*. Elements in Psychology and Culture series, Cambridge University Press. DOI: 10.1017/9781009303538
 
-
 <br><br>
 
 
