@@ -24,6 +24,24 @@ author_profile: true
 # Journal Articles, Book Chapters, Conference Proceedings Papers, etc:
 
 
+## Scaling-up Behavior Settings: An Ecological Approach to Cognitive Institutions. (w/ Moritz Bammel) <br> *Topoi*, forthcoming. ([Link soon](https://link.springer.com/journal/11245))  <img align="right" src="https://gui-cogsci.github.io/images/topoi" width="130">
+> Abstract: Barker’s notion of behavior settings has been fruitfully used in ecological psychology to highlight the importance of place and to account for how perception-action of affordances is socio-culturally co-constituted. In parallel, the notion of cognitive institutions has been introduced in the context of the extended cognition debate to analyze how certain cognitive practices are enabled and shaped by institutional structures that have emerged from previous collective cognitive and social activities. In this paper, we argue that behavior settings and cognitive institutions are complementary notions and we propose a synthesis under the umbrella of ecological psychology. Relative to behavior settings, cognitive institutions can be conceived as yet higher higher-order ecological structures that emerge from and are sustained by active participation in spatio-temporally more widely distributed joint actions and collective cognitive practices. At the same time, cognitive institutions function as more 
+global enabling constraints, relative to behavior settings, over individuals’ perception-action of affordances and families of behavior settings. Incorporating the notion of cognitive institutions into ecological psychology thus enables a more comprehensive analysis of how cognitive practices are socio-culturally co-constituted at various spatio-temporal scales. We conclude that this synthesis opens up opportunities for a critical turn in ecological psychology, supporting the analysis of how cognitive practices are socio-culturally co-constituted on an institutional level for better or worse.
+>
+> KEYWORDS: cognitive institutions; behavior settings; Ecological Psychology; socially extensive cognition; mind-shaping; political philosophy of mind
+> 
+>>  Bammel, M., & Sanches de Oliveira G. (2025). Scaling-up Behavior Settings: An Ecological Approach to Cognitive Institutions. _Topoi_. https://link.springer.com/journal/11245 
+
+<br><br>
+
+
+## Review of "Inference and Representation: A Study in Modeling Science" by Mauricio Suárez. <br>*Philosophy*, 2025. ([Link](https://www.cambridge.org/core/journals/philosophy/article/abs/inference-and-representation-a-study-in-modeling-science-by-mauricio-suarez-university-of-chicago-press-2024/986D82BCE26B48F4663A121D909697CE)) <img align="right" src="https://gui-cogsci.github.io/images/philosophy.jpg" width="130">
+ > Review of Mauricio Suárez (2024) Inference and Representation: A Study in Modeling Science. University of Chicago Press.<br><br>
+> 
+ >> Sanches de Oliveira, G. (2025). Review of "Inference and Representation: A Study in Modeling Science" by Mauricio Suárez. *Philosophy*. DOI: 10.1017/S003181912400024X 
+
+
+<br><br>
 
 
 
