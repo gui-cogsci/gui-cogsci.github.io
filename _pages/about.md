@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "history, theory, methods and experimental research in embodied cognitive science"
-excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
